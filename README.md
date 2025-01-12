@@ -7,17 +7,17 @@ This repository contains the project I completed as part of British Airways' job
 
 Key Features:
 
-Web Scraping
+-Web Scraping
 
-Data Cleaning and Preprocessing
+-Data Cleaning and Preprocessing
 
-Sentiment Analysis
+-Sentiment Analysis
 
-Feature Engineering
+-Feature Engineering
 
-Predictive Modeling
+-Predictive Modeling
 
-Visualization
+-Visualization
 
 Tools and Technologies:
 Python
