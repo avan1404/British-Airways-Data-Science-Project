@@ -7,19 +7,17 @@ This repository contains the project I completed as part of British Airways' job
 
 Key Features:
 
-Web Scraping: Collected customer reviews using BeautifulSoup to extract insights from real-world data.
+Web Scraping
 
-Data Cleaning and Preprocessing: Prepared messy, unstructured data for analysis through tokenization, stopword removal, and lemmatization.
+Data Cleaning and Preprocessing
 
-Sentiment Analysis: Performed sentiment classification using the VADER sentiment analyzer and visualized results with pie charts.
+Sentiment Analysis
 
-Feature Engineering: Applied techniques such as one-hot encoding and MinMax scaling for effective feature representation.
+Feature Engineering
 
-Predictive Modeling: Built a Random Forest Classifier to predict booking behavior and evaluated its performance using metrics like accuracy and AUC score.
+Predictive Modeling
 
-Visualization: Presented insights using word clouds, bar charts, and other visualizations.
-
-Learnings: Gained hands-on experience in machine learning model creation, evaluation, and working with real British Airways data.
+Visualization
 
 Tools and Technologies:
 Python
